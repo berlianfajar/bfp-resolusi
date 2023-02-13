@@ -2,3 +2,4 @@ Berlian New Live
 1 Minggu belajar GitHub dalam 14 video
 1 Minggu belajar Codeigniter 3/4
 1 Minggu belajar server jaringan
+1 Minggu project SI Nilai Raport
